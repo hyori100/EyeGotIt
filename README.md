@@ -1,5 +1,5 @@
 # EyeGotIt
-Hansung Univ. Computer engineering Graduation Project
+한성대학교 캡스톤 디자인 발표회
 - 김상민 [Sangmeebee의 공간](https://github.com/Sangmeebee)
 - 임찬호 [Lim-chano의 공간](https://github.com/Lim-chano)
 - 마효리 [hyori100의 공간](https://github.com/hyori100)
